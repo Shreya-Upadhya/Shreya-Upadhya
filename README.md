@@ -2,12 +2,12 @@
 
 <div align="center">
 
-### **DevOps Engineer | Infrastructure as Code | CI/CD Automation**
+### **Aspiring DevOps Engineer | Infrastructure as Code | CI/CD Automation**
 
 *Building scalable infrastructure and automating deployment pipelines* 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-upadhya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shreyaupadhya.sku@gmail.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a DevOps engineer passionate about **cloud infrastructure, container orchestration, CI/CD automation, and Infrastructure as Code (IaC)**. I love automating workflows, building reliable deployment pipelines, and managing scalable infrastructure solutions.
+I'm an aspiring DevOps engineer passionate about **cloud infrastructure, container orchestration, CI/CD automation, and Infrastructure as Code (IaC)**. I love automating workflows, building reliable deployment pipelines, and managing scalable infrastructure solutions.
 
 - 🔧 **Specialization:** DevOps, Cloud Infrastructure, Container Orchestration  
 - 💻 **Tech Stack:** Kubernetes, Docker, Terraform, Jenkins, GitHub Actions  
@@ -158,16 +158,6 @@ Tech: HTML5, CSS3, JavaScript, GitHub Pages, Minimax Algorithm
 | **CI/CD & Automation** | Jenkins • GitHub Actions • Git Workflows |
 | **Backend Development** | Node.js • Express.js • Shell Scripting |
 | **Tools & Platforms** | Docker Hub • GitHub • Linux • npm |
-
----
-
-## 💡 What I'm Building Next
-
-- 🚀 Multi-environment deployments (Dev/Staging/Prod)
-- 📊 Infrastructure monitoring & observability solutions
-- 🔐 Advanced security patterns in containerized environments
-- ☁️ Cloud-native application architecture
-- 🤖 GitOps workflows & automation
 
 ---
 
