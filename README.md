@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 <div align="left" style="display:inline-block; border-left: 4px solid #7F77DD; padding-left: 16px; margin: 24px 0;">
-  <p style="font-family:'Courier New',monospace; font-size:22px; font-weight:bold; color:#7F77DD; letter-spacing:5px; line-height:2; margin:0;">SHREYA K</p>
+  <p style="font-family:'Courier New',monospace; font-size:22px; font-weight:bold; color:#7F77DD; letter-spacing:5px; line-height:2; margin:0;">**SHREYA K**</p>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=CS+Postgrad+%7C+MERN+Stack+Dev;REST+APIs+%7C+Firebase+%7C+React.js;Building+Clean%2C+Scalable+Web+Apps)](https://git.io/typing-svg)
